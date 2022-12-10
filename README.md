@@ -31,6 +31,10 @@ The following tech stacks are used to build this project :-
             <li>CSS</li>
         </ol>
         
+ # Link 
+
+Click&nbsp;<a href="https://chic-cobbler-f59be8.netlify.app/">Here</a>&nbsp;to see this Project.
+        
 # Pages
 This website has 3 main routes :-
 1. Home Page :- Home Page shows all the movies present in the DB.
