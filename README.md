@@ -39,12 +39,6 @@ This website has 4 main routes :-
  <img src="https://i.imgur.com/69oLFBY.png" alt="Main.png">
  <img src="https://i.imgur.com/XCSna2b.png" alt="Main.png">
 2. MyMovies :- Here LoggedIn user can see his collection of movies as well as manage it.
-
- <img src="https://i.imgur.com/X9dp5xw.png" alt="Main.png">
- 
- See Collection 
- 
- <img src="https://i.imgur.com/soBRmww.png" alt="Main.png">
  
  Add Items
  
