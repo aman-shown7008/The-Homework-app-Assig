@@ -32,7 +32,7 @@ The following tech stacks are used to build this project :-
         </ol>
         
 # Pages
-This website has 4 main routes :-
+This website has 3 main routes :-
 1. Home Page :- Home Page shows all the movies present in the DB.
 
  <img src="https://i.imgur.com/gfU68bc.png" alt="Main.png">
